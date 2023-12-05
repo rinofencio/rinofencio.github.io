@@ -48,14 +48,14 @@ Sou Rinofencio, um dedicado estudante universitário em busca de conhecimento e 
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Pauloricardo2019&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=rinofencio&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloricardo2019&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinofencio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -63,7 +63,7 @@ Sou Rinofencio, um dedicado estudante universitário em busca de conhecimento e 
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Pauloricardo2019&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rinofencio&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
