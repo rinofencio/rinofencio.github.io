@@ -33,7 +33,7 @@ Sou Rinofencio, um dedicado estudante universitário em busca de conhecimento e 
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a href="https://www.linkedin.com/in/paulo-ricardo-santos-3a557a208/" title="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/-3a557a208/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://wa.me/+5543999223399" title="WhatsApp" target="_blank">
